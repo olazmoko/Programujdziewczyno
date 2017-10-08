@@ -168,6 +168,10 @@ nav {
   padding-left: .5rem;
 }
 
+.more {
+    display: none;
+}
+
 .read-less {
   display: none;
 }
